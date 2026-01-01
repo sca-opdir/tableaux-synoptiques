@@ -1,0 +1,91 @@
+{
+  "cultural_date_format": "%d-%m-%Y",
+  "languages": ["FR", "DE"],
+  "translation": [
+      {
+        "FR": "Colonnes",
+        "DE": "Spalten"
+      },
+      {
+        "FR": "Fr./UGB",
+        "DE": "Fr./GVE"
+      },
+{
+"FR" : "Aperçu paiements directs",
+"DE" : "Übersicht Direktzahlungen"
+},
+{"FR":"Vue d'ensemble",
+"DE":"Übersicht"
+},
+{"FR":"Aperçu global",
+"DE":"Gesamtübersicht"
+},
+{"FR":"Biodiversité",
+"DE":"Biodiversität"
+},
+{"FR":"Contributions à la biodiversité",
+"DE":"Biodiversitätsbeiträge"
+},
+{"FR":"Contributions pour le paysage cultivé",
+"DE":"Kulturlandschaftsbeiträge"
+},
+{"FR":"Paysage cultivé",
+"DE":"Kulturlandschaft"
+
+},{"FR":"Bien-être animal",
+"DE":"Tierwohl"
+},
+{"FR":"Contributions pour le bien-être animal",
+"DE":"Tierwohlbeiträge"
+},
+{"FR":"Sécurité approvi.",
+"DE":"Versorg.sicherheit"
+},
+{"FR":"Contributions pour la sécurité de l'approvisionnement",
+"DE":"Versorgungssicherheitsbeiträge"
+},
+{"FR":"Syst. de production",
+"DE":"Produktionssystem"
+},
+{"FR":"Contributions au système de production",
+"DE":"Produktionssystembeiträge"
+},
+{"FR":"Contributions",
+"DE":"Beiträge"
+},
+{"FR":"Les différentes contributions",
+"DE":"Die verschiedenen Beiträge"
+},
+{"FR":"Garder seulement les codes éligibles",
+"DE":"Nur berechtigte Codes behalten"
+},
+{"FR":"Tout (dé)sélectionner",
+"DE":"Alles (de)selektieren"
+},
+{"FR":"Surfaces",
+"DE":"Flächen"
+},
+{"FR":"Animaux",
+"DE":"Tiere"
+},
+{"FR":"Glossaire",
+"DE":"Glossar"
+},
+{"FR":"Ordonnance sur la terminologie agricole (OTerm) 2023",
+"DE":"Landwirtschaftliche Begriffsverordnung (LBV) 2023"
+},
+{"FR":"Aide-mémoire",
+"DE":"Merkblatt"
+},
+{"FR":"Aperçu pour",
+"DE":"Übersicht für"
+},
+{"FR":"cliquer sur une ligne pour extraire les informations sur une culture",
+"DE":"auf eine Zeile klicken, um Informationen über eine Kultur zu extrahieren"
+},
+{"FR":"Retirer du tableau les cultures avec ligne sans aucune valeur",
+"DE":"Kulturen mit Zeile ohne jeden Wert aus der Tabelle entfernen"
+}
+
+    ]
+}
